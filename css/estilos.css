@@ -147,5 +147,5 @@ body{
     background-color: #6b2fa0;
     color: white;
     transform: scale(1.03);
-    box-shadow: 0 0 12px rgba(130, 58, 185, 0.6);
+    box-shadow: 0 0 12px rgba(130, 58, 185, 0.5);
 }
